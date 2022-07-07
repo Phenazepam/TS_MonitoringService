@@ -1,0 +1,8 @@
+c:\users\musiaa\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\bin\Debug\TerrasoftMonitoringService.exe.config
+c:\users\musiaa\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\bin\Debug\TerrasoftMonitoringService.exe
+c:\users\musiaa\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\bin\Debug\TerrasoftMonitoringService.pdb
+c:\users\musiaa\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\bin\Debug\Oracle.ManagedDataAccess.dll
+c:\users\musiaa\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\obj\Debug\TerrasoftMonitoringService.csproj.CoreCompileInputs.cache
+c:\users\musiaa\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\obj\Debug\TerrasoftMonitoringService.exe
+c:\users\musiaa\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\obj\Debug\TerrasoftMonitoringService.pdb
+C:\Users\MusiAA\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\obj\Debug\TerrasoftMonitoringService.csprojResolveAssemblyReference.cache

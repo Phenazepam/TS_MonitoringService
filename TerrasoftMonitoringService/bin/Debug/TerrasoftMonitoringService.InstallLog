@@ -1,0 +1,33 @@
+﻿Выполняется установка сборки 'c:\Users\MusiAA\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\bin\Debug\TerrasoftMonitoringService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\MusiAA\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\bin\Debug\TerrasoftMonitoringService.InstallLog
+   assemblypath = c:\Users\MusiAA\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\bin\Debug\TerrasoftMonitoringService.exe
+Выполняется установка сборки 'c:\Users\MusiAA\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\bin\Debug\TerrasoftMonitoringService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\MusiAA\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\bin\Debug\TerrasoftMonitoringService.InstallLog
+   assemblypath = c:\Users\MusiAA\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\bin\Debug\TerrasoftMonitoringService.exe
+Выполняется установка сборки 'C:\Users\MusiAA\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\bin\Debug\TerrasoftMonitoringService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\MusiAA\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\bin\Debug\TerrasoftMonitoringService.exe
+   logfile = C:\Users\MusiAA\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\bin\Debug\TerrasoftMonitoringService.InstallLog
+Выполняется установка сборки 'C:\Users\MusiAA\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\bin\Debug\TerrasoftMonitoringService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\MusiAA\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\bin\Debug\TerrasoftMonitoringService.exe
+   logfile = C:\Users\MusiAA\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\bin\Debug\TerrasoftMonitoringService.InstallLog
+Выполняется установка сборки 'C:\Users\MusiAA\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\bin\Debug\TerrasoftMonitoringService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\MusiAA\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\bin\Debug\TerrasoftMonitoringService.exe
+   logfile = C:\Users\MusiAA\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\bin\Debug\TerrasoftMonitoringService.InstallLog
+Устанавливается служба TerrasoftMonitoringService...
+Служба TerrasoftMonitoringService успешно установлена.
+Создается исходный EventLog TerrasoftMonitoringService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\MusiAA\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\bin\Debug\TerrasoftMonitoringService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\MusiAA\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\bin\Debug\TerrasoftMonitoringService.exe
+   logfile = C:\Users\MusiAA\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\bin\Debug\TerrasoftMonitoringService.InstallLog

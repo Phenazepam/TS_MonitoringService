@@ -1,0 +1,17 @@
+c:\users\musiaa\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\bin\Release\TerrasoftMonitoringService.exe.config
+c:\users\musiaa\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\bin\Release\TerrasoftMonitoringService.exe
+c:\users\musiaa\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\bin\Release\TerrasoftMonitoringService.pdb
+c:\users\musiaa\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\bin\Release\Oracle.ManagedDataAccess.dll
+c:\users\musiaa\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\obj\Release\TerrasoftMonitoringService.csproj.CoreCompileInputs.cache
+c:\users\musiaa\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\obj\Release\TerrasoftMonitoringService.exe
+c:\users\musiaa\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\obj\Release\TerrasoftMonitoringService.pdb
+C:\Users\MusiAA\source\repos\TerrasoftMonitoringService\TerrasoftMonitoringService\obj\Release\TerrasoftMonitoringService.csprojResolveAssemblyReference.cache
+C:\Users\MusiAA\source\repos\TerrasoftMonitoringService 2\TerrasoftMonitoringService\bin\Release\TerrasoftMonitoringService.exe.config
+C:\Users\MusiAA\source\repos\TerrasoftMonitoringService 2\TerrasoftMonitoringService\bin\Release\TerrasoftMonitoringService.exe
+C:\Users\MusiAA\source\repos\TerrasoftMonitoringService 2\TerrasoftMonitoringService\bin\Release\TerrasoftMonitoringService.pdb
+C:\Users\MusiAA\source\repos\TerrasoftMonitoringService 2\TerrasoftMonitoringService\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\MusiAA\source\repos\TerrasoftMonitoringService 2\TerrasoftMonitoringService\obj\Release\TerrasoftMonitoringService.csproj.CoreCompileInputs.cache
+C:\Users\MusiAA\source\repos\TerrasoftMonitoringService 2\TerrasoftMonitoringService\obj\Release\TerrasoftMonitoringService.csproj.CopyComplete
+C:\Users\MusiAA\source\repos\TerrasoftMonitoringService 2\TerrasoftMonitoringService\obj\Release\TerrasoftMonitoringService.exe
+C:\Users\MusiAA\source\repos\TerrasoftMonitoringService 2\TerrasoftMonitoringService\obj\Release\TerrasoftMonitoringService.pdb
+C:\Users\MusiAA\source\repos\TerrasoftMonitoringService 2\TerrasoftMonitoringService\obj\Release\TerrasoftMonitoringService.csprojAssemblyReference.cache
